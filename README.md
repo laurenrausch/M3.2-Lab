@@ -1,6 +1,6 @@
 # Running my website!
 
-## Step 1
+## Step One
 
 Before running, clone this repository and run the following commands:
 
@@ -30,3 +30,9 @@ You can also run the website within VSCode through the built in Run and Debug to
     Ctrl+Shift+D
 
 ### Outside Sources 
+
+MozDevNet. “time: The (Date) Time Element - HTML: Hypertext Markup Language: MDN Time.” MDN Web Docs, developer.mozilla.org/en-US/docs/Web/HTML/Element/time. Accessed 29 Jan. 2025. 
+
+MozDevNet. “abbr: The Abbreviation Element - HTML: Hypertext Markup Language: MDN Abbr.” MDN Web Docs, developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr. Accessed 29 Jan. 2025. 
+
+“W3schools.Com.” W3Schools Online Web Tutorials, www.w3schools.com/html/html_lists.asp. Accessed 29 Jan. 2025. 
