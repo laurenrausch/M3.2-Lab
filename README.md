@@ -7,17 +7,9 @@ Before running, clone this repository and run the following commands:
 ```bash
 npm install
 ```
-You will need npm installed to be able to run my tests!
-
 ## Step Two
 
-It is recommend you run this code inside of VSCode for best results. Once you have opened the repository, on a new command line, run the tests with the following command:
-
-    npm run test
-
-## Step Three
-
-You can run the website through Live Preview VSCode extension which will start the server for the webpage, run it with the following keystroke: 
+You can run the website through Live Preview VSCode extension which will start the local server for the webpage, run it with the following keystroke: 
 
     Ctrl+Shift+P
     Live Preview: Start Sever
